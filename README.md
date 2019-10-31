@@ -1,6 +1,6 @@
 # Xinyue(danaca)Zhang 
 
-> **UXPortfolio:** https://uxfol.io/danaca
+> **UX Portfolio:** https://uxfol.io/danaca
 > **Email:** xinyue.wopg@gmail.com
 > **Linkedin:** www.linkedin.com/in/danaca
 
